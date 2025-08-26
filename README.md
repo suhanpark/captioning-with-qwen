@@ -25,7 +25,8 @@ The system generates structured JSON captions with the following sections:
 
 Here's an example of what the system produces - image on the left with the complete JSON caption on the right:
 
-![Demo Output](demo.png)
+![Demo Output 1](demo1.png)
+![Demo Output 2](demo2.png)
 
 *The demo shows a forest scene with mushrooms, displaying the structured JSON output with detailed scene analysis, environmental conditions, visual tone, and object detection.*
 

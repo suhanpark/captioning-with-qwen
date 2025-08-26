@@ -6,6 +6,8 @@ echo ""
 pip install -r requirements.txt
 echo "Required packages installed."
 
+mkdir -p data/source data/captions data/demo data/cache
+
 if [ ! -f ~/.kaggle/kaggle.json ]; then
     echo ""
     echo "Kaggle API token not found."
