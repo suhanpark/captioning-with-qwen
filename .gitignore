@@ -1,0 +1,7 @@
+/__pycache__
+*.pyc
+.env
+/data/captions/*
+/data/demo/*
+/data/cache/*
+/data/source/*
